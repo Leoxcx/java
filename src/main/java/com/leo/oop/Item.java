@@ -3,7 +3,7 @@ package com.leo.oop;
 /**
  * @author : Leox
  * @date : 2021/11/14 22:59
- * @description :
+ * @description :  变量
  */
 public class Item {
     String name;    //名称
